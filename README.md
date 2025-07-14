@@ -12,17 +12,15 @@ A modern, responsive portfolio website built with **React** and **Vite**, design
 
 ## 📸 Preview
 
-### 👋 Hero Section
-![Hero Section](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/hero.png)
+<h3 align="center">📸 Portfolio Preview</h3>
 
-### 💼 Experience & Education
-![Experience Section](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/exp.png)
+<p align="center">
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/hero.png?raw=true" alt="Hero Section" width="22%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/exp.png?raw=true" alt="Experience Section" width="22%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/project.png?raw=true" alt="Projects Section" width="22%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/footer.png?raw=true" alt="Footer Section" width="22%" />
+</p>
 
-### 🚀 Projects
-![Projects Section](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/project.png)
-
-### 📞 Footer & Contact Info
-![Footer](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/footer.png)
 
 ---
 
