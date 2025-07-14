@@ -13,16 +13,16 @@ A modern, responsive portfolio website built with **React** and **Vite**, design
 ## 📸 Preview
 
 ### 👋 Hero Section
-![Hero Section](./hero.png)
+![Hero Section](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/hero.png)
 
 ### 💼 Experience & Education
-![Experience Section](./exp.png)
+![Experience Section](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/exp.png)
 
 ### 🚀 Projects
-![Projects Section](./project.png)
+![Projects Section](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/project.png)
 
 ### 📞 Footer & Contact Info
-![Footer](./footer.png)
+![Footer](https://github.com/krypton4149/Piyush_Portfolio/blob/9fb1fdabfe427a31544f5885bce4723c824ac36b/image/footer.png)
 
 ---
 
