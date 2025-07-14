@@ -51,16 +51,16 @@ const Footer = () => {
             <p>&copy; {currentYear} Piyush Yadav. All rights reserved.</p>
             <div className="footer-social">
             <a href="https://github.com/krypton4149" target="_blank" rel="noopener noreferrer" className="social-icon">
-                  <img src="/image/github.png" alt="GitHub" width="28" height="28" style={{display: 'block'}} />
+                  <img src="/public/github.png" alt="GitHub" width="28" height="28" style={{display: 'block'}} />
                 </a>
                 <a href="https://www.linkedin.com/in/piyush-yadav01/" target="_blank" rel="noopener noreferrer" className="social-icon">
-                  <img src="/image/linkedin.png" alt="LinkedIn" width="28" height="28" style={{display: 'block'}} />
+                  <img src="/public/linkedin.png" alt="LinkedIn" width="28" height="28" style={{display: 'block'}} />
                 </a>
                 <a href="mailto:webpiyush.01@gmail.com" className="social-icon">
-                  <img src="/image/gmail.png" alt="Gmail" width="28" height="28" style={{display: 'block'}} />
+                  <img src="/public/gmail.png" alt="Gmail" width="28" height="28" style={{display: 'block'}} />
                 </a>
                 <a href="tel:+918218058950" className="social-icon">
-                  <img src="/image/phone-call.png" alt="Phone" width="28" height="28" style={{display: 'block'}} />
+                  <img src="/public/phone-call.png" alt="Phone" width="28" height="28" style={{display: 'block'}} />
                 </a>
             </div>
           </div>
