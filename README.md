@@ -15,10 +15,10 @@ A modern, responsive portfolio website built with **React** and **Vite**, design
 <h3 align="center">📸 Portfolio Preview</h3>
 
 <p align="center">
-  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/hero.png?raw=true" alt="Hero Section" width="30%" height="25%" />
-  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/exp.png?raw=true" alt="Experience Section" width="30%" />
-  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/project.png?raw=true" alt="Projects Section" width="30%" />
-  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/footer.png?raw=true" alt="Footer Section" width="30%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/hero.png?raw=true" alt="Hero Section" width="45%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/exp.png?raw=true" alt="Experience Section" width="45%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/project.png?raw=true" alt="Projects Section" width="45%" />
+  <img src="https://github.com/krypton4149/Piyush_Portfolio/blob/main/image/footer.png?raw=true" alt="Footer Section" width="45%" />
 </p>
 
 
