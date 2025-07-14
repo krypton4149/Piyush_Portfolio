@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with **React** and **Vite**, design
 
 ## 🔥 Live Preview
 
-🚀 [View Portfolio](https://your-portfolio-link.com) – hosted with Vercel
+🚀 [View Portfolio](https://piyush-portfolio-sigma.vercel.app/) – hosted with Vercel
 
 ---
 
